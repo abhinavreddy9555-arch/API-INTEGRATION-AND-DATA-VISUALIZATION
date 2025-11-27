@@ -57,3 +57,4 @@ Finally, after extracting the temperature and date information from the JSON res
 
 ***OUTPUT***
 
+<img width="1528" height="854" alt="Image" src="https://github.com/user-attachments/assets/7e60b027-0dbb-4415-9597-f24b9bc841d8" />
